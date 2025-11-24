@@ -1,3 +1,5 @@
+package Fee;
+
 public class FlatFeeStrategy implements FeeStrategy {
     private final double flatRate;
 

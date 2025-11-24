@@ -1,3 +1,5 @@
+package Singelton;
+
 public abstract class ParkingComponent {
     protected String name;
 

@@ -1,3 +1,5 @@
+package Fee;
+
 public class HourlyFeeStrategy implements FeeStrategy {
     private final double ratePerHour;
 

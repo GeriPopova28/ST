@@ -1,3 +1,8 @@
+import Fee.FeeStrategy;
+import Fee.ProgressiveFeeStrategy;
+import Manager.ParkingManager;
+import Spot.SingleSpot;
+
 import java.time.Duration;
 import java.time.LocalDateTime;
 import java.util.concurrent.ExecutorService;

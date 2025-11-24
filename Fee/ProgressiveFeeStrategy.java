@@ -1,3 +1,5 @@
+package Fee;
+
 class ProgressiveFeeStrategy implements FeeStrategy {
     @Override
     public double calculate(double minutes) {

@@ -1,3 +1,8 @@
+package Manager;
+
+import Fee.FeeStrategy;
+import Spot.ParkingSpot;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.time.Duration;

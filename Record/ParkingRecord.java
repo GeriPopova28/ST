@@ -1,3 +1,5 @@
+package Record;
+
 import java.time.Duration;
 import java.time.LocalDateTime;
 
